@@ -1,7 +1,8 @@
 # data
-2017 DC Crime Data
 
-This data was downloaded from the following web address:
+2017 Washington, DC Crime Data
+
+This dataset was downloaded from the following web address:
 http://crimemap.dc.gov/CrimeMapSearch.aspx
 
 1. Select the tab labeled "Other Geographic Area or Point"
@@ -14,7 +15,12 @@ http://crimemap.dc.gov/CrimeMapSearch.aspx
 8. Select "Check All" under "Choose the fields you wish to download"
 9. Select "Get Data"
 
-This Excel file was renamed "DCCrimeData" and the sheet name was renamed to "DCCrimeData".
+This Excel file was renamed "FY2017_DCCrimeData" and the sheet name was renamed to "DCCrimeData".
 
 
+
+2016 American Community Survey 5-Year Estimate - Table B03002
+Hispanic or Latino Origin by Race
+
+This dataset was downloaded via the United States Census Bureau American Fact Finder "Advanced Search" option for all census tracts within the District of Columbia. 
 
